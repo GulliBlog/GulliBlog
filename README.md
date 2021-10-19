@@ -2,7 +2,7 @@
 - 👉 this is my Gulli "Blog".
 
 
-👀 What will you find here? 
+👀 What will you find here?
 Some random and uncategorizable stuff that i found.
 
 GulliBlog is a
