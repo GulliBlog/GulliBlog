@@ -1,5 +1,5 @@
-- 👋 Hi, 
-- 👉 this is my Gulli "Blog".
+👋 Hi,   
+👉 this is my Gulli "Blog".
 
 
 👀 What will you find here?  
