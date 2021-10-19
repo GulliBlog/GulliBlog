@@ -8,10 +8,10 @@ Some random and uncategorizable stuff that i found.
 GulliBlog is a
 - 📖 diary with trash stories ..
 - 📝 notepad with useless stuff ..
-- 🔗 collection of random WWW-Links ..
+- 🔗 collection of random WWW-Links ..  
 .. that might never interest anyone, but who cares?
 
-I use github to long-term save this stuff.
+I use github to long-term save this stuff.  
 And yes, I know Github is not meant to be used that way.
 
 
