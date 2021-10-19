@@ -3,7 +3,7 @@
 
 
 👀 What will you find here?  
-Some random and uncategorizable stuff that i found.
+Some random and uncategorizable stuff (that i found).
 
 GulliBlog is a
 - 📖 diary with trash stories ..
